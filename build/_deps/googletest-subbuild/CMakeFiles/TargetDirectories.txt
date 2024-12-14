@@ -1,0 +1,3 @@
+/home/vyacheslav/Рабочий стол/Labs/lab5/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/home/vyacheslav/Рабочий стол/Labs/lab5/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/home/vyacheslav/Рабочий стол/Labs/lab5/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
